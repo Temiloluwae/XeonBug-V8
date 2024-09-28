@@ -1,3 +1,15 @@
+> Create Fork And Then Get Inside database, Edit Owner.json replace Your number And Commit Changes | If You Wana Add Premium Too, The Same Method Will Applies For It,Edit Premium.json. After Finishing This , Deploy And Enjoy.
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+ 
+### TUTORIAL OWNER/PREMIUM
+
+<a href="https://youtu.be/qYv8p_hMb-w"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/qYv8p_hMb-w" /><br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+ 
 <p align="center">
 <a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/jHynY57/11993dc55c32a21a249ef1721fb66af4.jpg?style=for-the-badge&logo=github"></a>
 <p>
@@ -31,6 +43,19 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+### Available Features ♦️
+### Scroll Right To Left
+| Menu ⁠➜ | Bot Settings | Group Bug | Andriod Bug | Down loads | IOS Bug | Status View | Web Bug | Fun AI | Owner Menu | Temp Ban | Data bases |
+| --------| ----------- | --------- | ----------- | -------- | ------- | ------ | ------- | --- | ----- | -------- | -------- |
+| Work ➜ |  ✅  |    ✅  |     ✅  |     ✅   |   ✅    |   ✅   |   ✅    |  ✅ |  ✅   |    ✅  |   ✅  |
+
+
+--------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+
 # CLICK THE BUTTON TO FORK
 
 
@@ -40,19 +65,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
-# USE GLOBAL SESSION IT'S WORKING
 
-<a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-
-
-
-<a href='https://replit.com/@tlptrends92/GLOBAL-SESSIONS#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-2-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
 
 ### TUTORIAL TO HOST IN PANEL
 <a href="https://youtu.be/Nqid24l1Z3I"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/Nqid24l1Z3I" /><br>
@@ -62,8 +75,45 @@
 src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 
 `AFTER YARN GET INSTALLED, REMOVE YOUR COMMAND FROM BASH FILE AND CHANGE BOT START FILE NAME FROM index.js TO main.js`
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
  
- # I'LL ADD OTHER DEPLOYMENT METHODS LATER
+ ### DEPLOY IN REPLIT
+
+   <a href='https://repl.it/github/GlobalTechInfo/XeonBug-V8' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+  
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+### TUTORIAL FOR CLOUD SHELL
+
+<a href="https://youtu.be/nHnNCsuxYuA"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/nHnNCsuxYuA" /><br>
+
+
+### DEPLOY IN CLOUD SHELL
+<a href='https://cloud.google.com/shell/?aff=1097457675723341836' target="_blank"><img alt='Google Cloud'
+src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'/><a>
+ 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+### DEPLOY IN CODESPACE
+
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+### DEPLOY IN RENDER
+
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+ 
+### TUTORIAL FOR TERMUX
+<a href="https://youtu.be/LYpyutDn_9s"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/LYpyutDn_9s" /><br>
 
 # DEPLOY IN TERMUX/UBUNTU
 ```bash
